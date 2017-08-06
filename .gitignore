@@ -1,3 +1,6 @@
 *.class
+FileProcessor/target/*
 
+*.iml
+.idea
 .git

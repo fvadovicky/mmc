@@ -1,0 +1,15 @@
+access forbidden exception - HTTP 403 - 2 - 1
+access forbidden exception - HTTP 403 - 3 - 1
+access forbidden exception - HTTP 403 - 1 - 1
+access forbidden exception - HTTP 403 - 2 - 2
+access forbidden exception - HTTP 403 - 3 - 2
+access forbidden exception - HTTP 403 - 1 - 2
+access forbidden exception - HTTP 403 - 2 - 3
+access forbidden exception - HTTP 403 - 1 - 3
+access forbidden exception - HTTP 403 - 3 - 3
+bad request error - HTTP 400 - 2 - 1
+bad request error - HTTP 400 - 1 - 1
+bad request error - HTTP 400 - 3 - 1
+bad request error - HTTP 400 - 2 - 2
+bad request error - HTTP 400 - 1 - 2
+bad request error - HTTP 400 - 3 - 2

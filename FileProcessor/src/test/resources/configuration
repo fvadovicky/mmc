@@ -1,0 +1,2 @@
+notfound:.*HTTP\s404.*
+internal:.*HTTP\s500.*

@@ -1,0 +1,10 @@
+not found exception - HTTP 404 - 1 - 1
+not found exception - HTTP 404 - 1 - 2
+not found exception - HTTP 404 - 1 - 3
+internal server error - HTTP 500 - 1 - 1
+internal server error - HTTP 500 - 1 - 2
+access forbidden exception - HTTP 403 - 1 - 1
+access forbidden exception - HTTP 403 - 1 - 2
+access forbidden exception - HTTP 403 - 1 - 3
+bad request error - HTTP 400 - 1 - 1
+bad request error - HTTP 400 - 1 - 2
